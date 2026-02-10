@@ -148,5 +148,5 @@ while($true) {
     }
     
     Write-Log "Sleeping for 30 seconds..."
-    Start-Sleep -Seconds 30
+    Start-Sleep -Seconds 10
 }
